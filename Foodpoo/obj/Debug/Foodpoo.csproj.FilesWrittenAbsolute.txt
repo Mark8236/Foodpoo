@@ -4,3 +4,6 @@
 /Users/mark/Projects/Foodpoo/Foodpoo/obj/Debug/Foodpoo.dll
 /Users/mark/Projects/Foodpoo/Foodpoo/obj/Debug/Foodpoo.dll.mdb
 /Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
