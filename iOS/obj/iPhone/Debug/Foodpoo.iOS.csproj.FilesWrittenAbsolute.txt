@@ -1,0 +1,15 @@
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/actool/partial-info.plist
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/optimized/
+/Users/mark/Projects/Foodpoo/iOS/bin/iPhone/Debug/Foodpoo.iOS.exe.mdb
+/Users/mark/Projects/Foodpoo/iOS/bin/iPhone/Debug/Foodpoo.iOS.exe
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/Foodpoo.iOS.exe
+/Users/mark/Projects/Foodpoo/iOS/obj/iPhone/Debug/Foodpoo.iOS.exe.mdb
+/Users/mark/Projects/Foodpoo/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/mark/Projects/Foodpoo/iOS/bin/iPhone/Debug/Foodpoo.dll
+/Users/mark/Projects/Foodpoo/iOS/bin/iPhone/Debug/Foodpoo.dll.mdb

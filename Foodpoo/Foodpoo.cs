@@ -14,7 +14,7 @@ namespace Foodpoo
 					VerticalOptions = LayoutOptions.Center,
 					Children = {
 						new Label {
-							XAlign = TextAlignment.Center,
+							HorizontalOptions = LayoutOptions.Center,
 							Text = "Welcome to Xamarin Forms!"
 						}
 					}

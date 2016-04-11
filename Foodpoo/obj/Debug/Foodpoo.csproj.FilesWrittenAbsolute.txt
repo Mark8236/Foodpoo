@@ -1,1 +1,6 @@
 /Users/mark/Projects/Foodpoo/Foodpoo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/Foodpoo.dll.mdb
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/Foodpoo.dll
+/Users/mark/Projects/Foodpoo/Foodpoo/obj/Debug/Foodpoo.dll
+/Users/mark/Projects/Foodpoo/Foodpoo/obj/Debug/Foodpoo.dll.mdb
+/Users/mark/Projects/Foodpoo/Foodpoo/bin/Debug/Xamarin.Forms.Platform.dll
